@@ -1,17 +1,25 @@
-### [X](http://link-to-x.com)
+### [Thonny](https://github.com/thonny)
 
-#### Install using Git
+#### Install using Thonny
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+1. Go to `Thonny → Tools → Manage plug-ins`
+2. Search for `thonny-dracula`
+3. Click `Install`
 
-    $ git clone https://github.com/dracula/template.git
+#### Install using pip
+
+    pip install thonny-dracula
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+1. Download using the [GitHub .zip download](https://github.com/dracula/thonny/archive/master.zip) option and unzip them.
+2. Go to `Thonny → Tools → Manage plug-ins…`
+3. Click `Install from local file`
+4. Find and select the prefered compressed file under /dist
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. After installing, close and open Thonny, so the theme is loaded
+2. Go to `Thonny → Tools → Options`
+3. Under `Theme & Font`, select the drop-down menu `Syntax theme`
+4. Select `Dracula`
