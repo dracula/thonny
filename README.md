@@ -1,6 +1,6 @@
-# Dracula for [Thonny](https://github.com/thonny)
+# Dracula for [Thonny](https://thonny.org)
 
-> A dark theme for [Thonny](https://github.com/thonny).
+> A dark theme for [Thonny](https://thonny.org).
 
 ![Screenshot](./screenshot.png)
 

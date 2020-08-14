@@ -1,4 +1,4 @@
-### [Thonny](https://github.com/thonny)
+### [Thonny](https://thonny.org)
 
 #### Install using Thonny
 
