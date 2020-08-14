@@ -5,7 +5,7 @@ import os
 
 setup(
     name='thonny-dracula',
-    version='0.1.1',
+    version='0.1.2',
     description='Dracula dark theme for Thonny IDE',
     long_description=open('README.md').read(),
     url='https://github.com/danspinola/thonny',

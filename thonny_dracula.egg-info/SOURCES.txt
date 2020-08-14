@@ -1,0 +1,8 @@
+README.md
+setup.py
+thonny_dracula.egg-info/PKG-INFO
+thonny_dracula.egg-info/SOURCES.txt
+thonny_dracula.egg-info/dependency_links.txt
+thonny_dracula.egg-info/requires.txt
+thonny_dracula.egg-info/top_level.txt
+thonnycontrib/dracula/__init__.py

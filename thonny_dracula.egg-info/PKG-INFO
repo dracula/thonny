@@ -1,0 +1,47 @@
+Metadata-Version: 1.1
+Name: thonny-dracula
+Version: 0.1.2
+Summary: Dracula dark theme for Thonny IDE
+Home-page: https://github.com/danspinola/thonny
+Author: Daniel Spinola
+Author-email: dspinola.dev@gmail.com
+License: MIT
+Download-URL: https://github.com/danspinola/thonny
+Description: # Dracula for [Thonny](https://github.com/thonny)
+        
+        > A dark theme for [Thonny](https://github.com/thonny).
+        
+        ![Screenshot](./screenshot.png)
+        
+        ## Install
+        
+        All instructions can be found at [draculatheme.com/thonny](https://draculatheme.com/thonny).
+        
+        ## Team
+        
+        This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/thonny/graphs/contributors).
+        
+        [![Daniel Spinola](https://avatars0.githubusercontent.com/u/51745663?v=3&s=70)](https://github.com/danspinola) |
+        --- |
+        [Daniel Spinola](https://github.com/danspinola)|
+        
+        ## License
+        
+        [MIT License](./LICENSE)
+Keywords: IDE education programming Thonny dark theme dracula
+Platform: Windows
+Platform: macOS
+Platform: Linux
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Education
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Embedded Systems
